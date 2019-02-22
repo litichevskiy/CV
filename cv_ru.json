@@ -78,13 +78,13 @@
     "key": "email",
     "user": "​litichevskiyalexandr@gmail.com",
     "path": "mailto:​litichevskiyalexandr@gmail.com",
-    "picture":["images/gmail.webp","src/images/gmail.png"]
+    "picture":["src/images/gmail.webp","src/images/gmail.png"]
   },
   {
     "key": "skype",
     "user": "litichevskiy",
     "path": "skype:litichevskiy?chat",
-    "picture":["images/skype.webp","src/images/skype.png"]
+    "picture":["src/images/skype.webp","src/images/skype.png"]
   }
 ]
 }
