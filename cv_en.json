@@ -1,0 +1,90 @@
+{
+ "user": {
+  "firstName": "​Alexandr",
+  "lastName": "​Litichevskiy​",
+  "position": "​Frontend Developer"
+ },
+ "experience​": [
+  {
+    "company": "freelance",
+    "dateStart": "November 2017",
+    "dateEnd": "present",
+    "position": "Frontend Developer",
+    "description": [
+      "various NDA protected projects"
+   ]
+  },
+  {
+    "company": "Limestone Digital",
+    "dateStart": "August 2017",
+    "dateEnd": "November 2017",
+    "position": "​Frontend Developer",
+    "description": [
+      "Development and support of online cosmetics e-shop.",
+      "Implemented new components in adaptive layout in legacy codebase."
+   ]
+  },
+  {
+    "company": "socsecret",
+    "dateStart": "Oct 2016",
+    "dateEnd": "August 2017",
+    "position": "​Frontend Developer",
+    "description": [
+      "Development of UI part of service for increasing popularity in instagram.",
+      "Implemented client side routing.",
+      "Added multilanguage support which does not require page reloading.",
+      "Decreased high coupling of legacy code with modular approach.",
+      "Created from scratch admin UI for internal company projects."
+   ]
+  },
+  {
+    "company": "Roomtodo",
+    "dateStart": "Apr 2016",
+    "dateEnd": "June 2016",
+    "position": "Junior Frontend Developer",
+    "description": [
+      "Took part in UI development of online interior design software.",
+      "Interface elements implemented in pure Javascript, HTML and CSS without frameworks.",
+      "Decreased coupling of components with pattern Publisher/Subscriber."
+   ]
+  }
+ ],
+ "petProjects": [
+  {
+    "name": "Weather Forecast Application",
+    "shortDescription": "",
+    "description": [
+      "Progressive Web App",
+      "Used Service Workers to cache application data.",
+      "Implemented interaction with third-party APIs protected with OAuth."
+   ],
+   "link": {
+      "github": "https://github.com/litichevskiy/weather"
+   }
+  },
+  {
+    "name": "ankoku-toshi-jutsu",
+    "shortDescription": "a copy of the advertising site",
+    "description": [
+      "A visual copy of the advertising site, written to explore React and Flux."
+   ],
+   "link": {
+      "github": "https://github.com/litichevskiy/example-ankoku-toshi-jutsu"
+   }
+  }
+ ],
+ "contacts": [
+  {
+    "key": "email",
+    "user": "​litichevskiyalexandr@gmail.com",
+    "path": "mailto:​litichevskiyalexandr@gmail.com",
+    "picture":["images/gmail.webp","src/images/gmail.png"]
+  },
+  {
+    "key": "skype",
+    "user": "litichevskiy",
+    "path": "skype:litichevskiy?chat",
+    "picture":["images/skype.webp","src/images/skype.png"]
+  }
+ ]
+}

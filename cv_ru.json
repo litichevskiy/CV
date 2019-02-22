@@ -1,0 +1,90 @@
+{
+ "user": {
+  "firstName": "Литичевский",
+  "lastName": "Александр",
+  "position": "Frontend Developer"
+},
+"experience​": [
+  {
+    "company": "freelance",
+    "dateStart": "ноябрь 2017",
+    "dateEnd": "настоящее время",
+    "position": "Frontend Developer",
+    "description": [
+      "различные проекты, защищенные NDA"
+    ]
+  },
+  {
+    "company": "limestone Digital",
+    "dateStart": "август 2017",
+    "dateEnd": "ноябрь 2017",
+    "position": "Frontend Developer",
+    "description": [
+      "Разработка и поддержка интернет-магазина косметики",
+      "Адаптивная верстка.",
+      "Реализованы новые компоненты в устаревшей кодовой базе."
+    ]
+  },
+  {
+    "company": "socsecret",
+    "dateStart": "октябрь 2016",
+    "dateEnd": "август 2017",
+    "position": "Frontend Developer",
+    "description": [
+      "Разработка пользовательского интерфейса для сервиса по увеличению популярности в Instagram.",
+      "Реализована маршрутизация на стороне клиента.",
+      "Добавлена поддержка мультиязычности, которая не требует перезагрузки страницы.",
+      "Снижение связанности устаревшего кода модульным подходом.",
+      "Создание интерфейса администратора для внутренних проектов компании."
+    ]
+  },
+  {
+    "company": "Roomtodo",
+    "dateStart": "апрель 2016",
+    "dateEnd": "июнь 2016",
+    "position": "Junior Frontend Developer",
+    "description": [
+      "Принимал участие в разработке интерфейса для онлайн дизайна интерьера.",
+      "Элементы интерфейса реализованы на чистом Javascript, HTML и CSS без фреймворков.",
+      "Для уменьшения связанности компонентов использовал шаблон Publisher / Subscriber."
+    ]
+  }
+],
+"petProjects": [
+  {
+    "name": "Weather Forecast Application",
+    "shortDescription": "Progressive Web App",
+    "description": [
+      "Использовал service worker для кэширования данных приложения.",
+      "Реализовал взаимодействие со сторонними API, защищенными OAuth."
+    ],
+    "link": {
+      "github": "https://github.com/litichevskiy/weather"
+    }
+  },
+  {
+    "name": "ankoku-toshi-jutsu",
+    "shortDescription": "",
+    "description": [
+      "Визуальная копия рекламного сайта, написанная для изучения React и Flux."
+    ],
+    "link": {
+      "github": "https://github.com/litichevskiy/example-ankoku-toshi-jutsu"
+    }
+  }
+],
+"contacts": [
+  {
+    "key": "email",
+    "user": "​litichevskiyalexandr@gmail.com",
+    "path": "mailto:​litichevskiyalexandr@gmail.com",
+    "picture":["images/gmail.webp","src/images/gmail.png"]
+  },
+  {
+    "key": "skype",
+    "user": "litichevskiy",
+    "path": "skype:litichevskiy?chat",
+    "picture":["images/skype.webp","src/images/skype.png"]
+  }
+]
+}

@@ -1,0 +1,142 @@
+@import './initFonts';
+
+@media print{
+  a[href^='mailto'],
+  a[href^='skype']{
+    display: none;
+  }
+}
+
+body{
+  font-family: 'Roboto','sans-serif';
+  color: rgb(23, 21, 21);
+  margin: 0;
+  padding: 0;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+ul{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.cv-container {
+  padding: 1.65em 1em;
+  width: 1200px;
+  margin: auto;
+
+  .header-large, .header-medium{
+    line-height: 1.15;
+    margin: 0.35em 0;
+  }
+
+  .header-medium{
+    margin: 1.3em 0;
+  }
+
+  .header-small{
+    margin: 0.8em 0;
+  }
+
+  h3,h4[class^="header"]{
+    letter-spacing: 1px;
+  }
+
+  [class^="header"] time,
+  [class^="header"] small{
+    font-weight: 400;
+    font-size: 90%;
+    margin: 0 0.35em;
+    letter-spacing: initial;
+  }
+
+  .description{
+    padding: 0 0 0 1em;
+    position: relative;
+    margin: 0.3em 0;
+
+    .circle:before{
+      position: relative;
+      top: 0;
+      left: 0;
+      content: "•";
+      margin-right: 0.27em;
+      color: #5a5a5a;
+      vertical-align: middle;
+    }
+  }
+
+  .circle{
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .link-to-project{
+    color: #1c1cd6;
+    margin: 0 0 0.35em 0.35em;
+    text-decoration: none;
+    display: inline-block;
+    word-break: break-word;
+  }
+
+  .wrapper-link-send-message{
+    display: inline-block;
+  }
+
+  .send-message-img{
+    vertical-align: middle;
+    margin-left: 0.6em;
+  }
+}
+
+@media (min-width: 320px) {
+  body {
+    font-size: calc(1.15rem + ((0.7vw - 2.2px) * -0.2));
+  }
+}
+
+@media (min-width: 2560px) {
+  body {
+    font-size: 21.6px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .cv-container {
+    width: 100%;
+  }
+}
+
+@media (max-width: 450px) {
+  .cv-container {
+
+    .wrapper-link-send-message{
+      display: block;
+      margin-left: 0.5em;
+    }
+  }
+}
+
+@media screen and (max-device-width:480px) {
+  .cv-container{
+
+    .description{
+      padding: 0 0 0 0.65em;
+    }
+
+    .wrapper-link-send-message{
+      display: block;
+      margin-left: 0.5em;
+    }
+  }
+
+  .send-message-img{
+    transform: scale(2.3);
+    margin-left: 1.5em;
+  }
+}

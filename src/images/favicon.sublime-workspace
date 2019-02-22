@@ -1,0 +1,846 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"l",
+				"left\tproperty"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"co",
+				"content\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"add",
+				"addEventListener(type, listener)\tfn "
+			],
+			[
+				"cv",
+				"cv_container\t(?)"
+			],
+			[
+				"ex",
+				"experience\twarning"
+			],
+			[
+				"pa",
+				"parse(json, reviver?)\tfn "
+			],
+			[
+				"get",
+				"getCv()"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"re",
+				"require(id)\tfn "
+			],
+			[
+				"tod",
+				"todos\t[] "
+			],
+			[
+				"on",
+				"onclick\t? "
+			],
+			[
+				"ti",
+				"this\t? "
+			],
+			[
+				"st",
+				"style\tbool "
+			],
+			[
+				"de",
+				"debugger\t? "
+			],
+			[
+				"exp",
+				"export\t? "
+			],
+			[
+				"te",
+				"textTodo\tstr "
+			],
+			[
+				"Add",
+				"AddTodo"
+			],
+			[
+				"Co",
+				"CoffeDecorator()\tfn "
+			],
+			[
+				"arti",
+				"articlesIsraeel\t[]"
+			],
+			[
+				"ar",
+				"articles\t[] "
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"Ra",
+				"RandomUserXml()\tfn "
+			],
+			[
+				"ra",
+				"randomUserXml\t(?)"
+			],
+			[
+				"con",
+				"container\t{} "
+			],
+			[
+				"th",
+				"this\t? "
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"T",
+				"Turkey()\tfn "
+			],
+			[
+				"au",
+				"author\tstr "
+			],
+			[
+				"new",
+				"news\t{} "
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"res",
+				"response\t{} "
+			],
+			[
+				"A",
+				"API_KEY\t(str)"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"p",
+				"path"
+			],
+			[
+				"o",
+				"options"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"loca",
+				"location\t{} "
+			],
+			[
+				"appe",
+				"appendChild(newNode) -> Node\tfn "
+			],
+			[
+				"class",
+				"className\t? "
+			],
+			[
+				"d",
+				"data\t(bool)"
+			],
+			[
+				"for",
+				"format\t(?)"
+			],
+			[
+				"r",
+				"reject"
+			],
+			[
+				"lo",
+				"location\t{} "
+			],
+			[
+				"set",
+				"setTimeout(f) -> number\tfn "
+			],
+			[
+				"grid-",
+				"grid-auto-columns\tproperty"
+			],
+			[
+				"gri",
+				"grid-row-end\tproperty"
+			],
+			[
+				"grid-r",
+				"grid-row-start\tproperty"
+			],
+			[
+				"grid-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"t",
+				"two\t(num)"
+			],
+			[
+				"tra",
+				"transition-duration\tproperty"
+			],
+			[
+				"tr",
+				"translateZ()\ttransform"
+			],
+			[
+				"op",
+				"openMenu()\tfn "
+			],
+			[
+				"_",
+				"_pageX\t(num)"
+			],
+			[
+				"ope",
+				"openCloseMenu(x, bg)\tfn "
+			],
+			[
+				"la",
+				"layerElem\t(?)"
+			],
+			[
+				"is",
+				"isCloseMenu(event)\tfn "
+			],
+			[
+				"clie",
+				"clientWidth\tnum "
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"stat",
+				"statusText\tstr "
+			],
+			[
+				"X",
+				"XMLHttpRequest()\tfn "
+			],
+			[
+				"app",
+				"append(name, value, filename)\tfn "
+			],
+			[
+				"time",
+				"timeEnd(timerName)\tfn "
+			],
+			[
+				"cons",
+				"console\t{} "
+			],
+			[
+				"Fra",
+				"createDocumentFragment() -> DocumentFragment\tfn "
+			],
+			[
+				"sta",
+				"storage2\t[]"
+			],
+			[
+				"ins",
+				"instanceof\t? "
+			],
+			[
+				"getM",
+				"getMinutes()"
+			],
+			[
+				"user",
+				"userData\t{} "
+			],
+			[
+				"to",
+				"toFixed(digits)"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"func",
+				"function\t? "
+			],
+			[
+				"fu",
+				"func()\tfn "
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"S",
+				"STORAGE_NAME\t(str)"
+			],
+			[
+				"borde",
+				"border-radius\tproperty"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"ca",
+				"catch\t? "
+			],
+			[
+				"Fu",
+				"Func(first, last)"
+			],
+			[
+				"clas",
+				"className\tbool "
+			],
+			[
+				"setI",
+				"setInterval(f) -> number\tfn "
+			],
+			[
+				"he",
+				"heightScroll\t(num)"
+			],
+			[
+				"scro",
+				"scrollToSection()"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"tab",
+				"table-cell\tdisplay"
+			],
+			[
+				"backg",
+				"background-repeat\tproperty"
+			],
+			[
+				"q",
+				"querySelector(selectors) -> Element\tfn "
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"ana",
+				"animation\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"fle",
+				"flex-start\tjustify-content"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"G",
+				"GOLD_ROW_IMG\t(str)"
+			],
+			[
+				"ce",
+				"cells\t[] "
+			],
+			[
+				"createE",
+				"createElement(tagName) -> Element\tfn "
+			],
+			[
+				"tot",
+				"total-game"
+			],
+			[
+				"b",
+				"background-image\tproperty"
+			],
+			[
+				"fun",
+				"function\t? "
+			],
+			[
+				"border-r",
+				"border-right\tproperty"
+			],
+			[
+				"cu",
+				"currentProjectName\tstr "
+			],
+			[
+				"qq",
+				"qq1\t? "
+			],
+			[
+				"pro",
+				"projectName\t(?)"
+			],
+			[
+				"curr",
+				"currentListTask\t[] "
+			],
+			[
+				"spl",
+				"splice(pos, amount)"
+			],
+			[
+				"cur",
+				"currentProjectName\tstr "
+			],
+			[
+				"DE",
+				"DEFAULT_PROJECT\tstr "
+			],
+			[
+				"pr",
+				"project\t? "
+			],
+			[
+				"onCl",
+				"onClick\tbool "
+			],
+			[
+				"req",
+				"requiredFields\t[] "
+			],
+			[
+				"tas",
+				"taskNameError\tbool "
+			],
+			[
+				"expo",
+				"exports\t{} "
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"er",
+				"error\t{}"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 424.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"p",
+				"Package Control: Enable Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			]
+		],
+		"width": 531.0
+	},
+	"console":
+	{
+		"height": 204.0,
+		"history":
+		[
+			"touch fake.js",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sl/p/news/src/js/components/qq",
+		"/home/sl/.config/sublime-text-3/Packages/Babel/Babel.sublime-settings",
+		"/home/sl/p/cv/server.js",
+		"/home/sl/.config/sublime-text-3/Packages/jsonlint/README.md",
+		"/home/sl/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/sl/.config/sublime-text-3/Packages/auto_close/README.md",
+		"/home/sl/p/cv/cv.json",
+		"/home/sl/p/cv/src/style/initFonts.css",
+		"/home/sl/.config/sublime-text-3/Packages/tern_for_sublime/Tern.sublime-settings",
+		"/home/sl/.config/sublime-text-3/Packages/TernJS/TernJS.sublime-settings",
+		"/home/sl/p/cv/src/js/cv.json",
+		"/home/sl/p/cv/cv.js",
+		"/home/sl/p/cv/src/index.js",
+		"/home/sl/p/cv/webpack.config.js",
+		"/home/sl/p/news/src/js/components/AddTodo.js",
+		"/home/sl/p/news/src/js/actionCreators.js",
+		"/home/sl/p/news/src/js/store.js",
+		"/home/sl/p/news/src/js/components/FilterLink.js",
+		"/home/sl/p/news/src/js/components/Header.js",
+		"/home/sl/p/news/src/js/components/Link.js",
+		"/home/sl/p/news/src/js/components/VisibleTodoList.js",
+		"/home/sl/p/news/index.html",
+		"/home/sl/p/news/src/js/test.js",
+		"/home/sl/p/news/webpack.config.js",
+		"/home/sl/p/patterns/src/js/responseValidation.js",
+		"/home/sl/p/patterns/server.js",
+		"/home/sl/p/patterns/src/js/userTemplate.js",
+		"/home/sl/p/patterns/src/style/index.css",
+		"/home/sl/p/patterns/pages/page_2.html",
+		"/home/sl/p/patterns/page_1.html",
+		"/home/sl/p/patterns/src/js/serverApi.js",
+		"/home/sl/p/patterns/.gitignore",
+		"/home/sl/p/patterns/package.json",
+		"/home/sl/p/patterns/webpack.config.js",
+		"/home/sl/p/patterns/index.html",
+		"/home/sl/p/patterns/src/js/index.js",
+		"/home/sl/p/patterns/.tern-project",
+		"/home/sl/p/news/package.json",
+		"/home/sl/p/news/src/style/initFonts.scss",
+		"/home/sl/p/news/src/style/index.scss",
+		"/home/sl/p/news/src/style/vars.scss",
+		"/home/sl/p/news/Procfile",
+		"/home/sl/p/news/src/js/sw.js",
+		"/home/sl/p/news/.tern-project",
+		"/home/sl/p/todo/dist/css/bundle.css",
+		"/home/sl/p/todo/dist/css/bundle.css.map",
+		"/home/sl/p/todo/package.json",
+		"/home/sl/p/todo/src/js/index.js",
+		"/home/sl/.cache/.fr-4gj1Us/flags.css",
+		"/home/sl/.cache/.fr-Sht4nG/README.md",
+		"/home/sl/p/todo/node_modules/flag-icon-css/assets/docs.js",
+		"/home/sl/p/todo/node_modules/flag-icon-css/index.html",
+		"/home/sl/p/todo/node_modules/flag-icon-css/README.md",
+		"/usr/lib/keepass2/Russian.lng",
+		"/home/sl/.config/gnome-gmail/gnome-gmail.conf",
+		"/home/sl/p/weather/getWeather.js",
+		"/home/sl/p/weather/src/js/components/WeatherForecastList.js",
+		"/home/sl/p/weather/src/js/components/weatherForecastList.js",
+		"/home/sl/p/weather/src/js/utils/format.js",
+		"/home/sl/p/weather/src/style/app.scss",
+		"/home/sl/p/weather/index.html",
+		"/home/sl/p/weather/src/js/serverApi.js",
+		"/home/sl/p/weather/src/js/components/Preloader.js",
+		"/home/sl/p/weather/src/style/components/listCardWeater/listCardWeater.scss",
+		"/home/sl/p/weather/src/js/utils/Swipedetect.js",
+		"/home/sl/p/todo/src/js/reducers/index.js",
+		"/home/sl/p/weather/src/style/components/header/header.scss",
+		"/home/sl/p/weather/src/js/storage.js",
+		"/home/sl/p/todo/src/js/lib/OAuth.js",
+		"/home/sl/p/todo/index.js",
+		"/home/sl/p/todo/src/js/reducers/todos.js",
+		"/home/sl/p/todo/src/js/actions/index.js",
+		"/home/sl/p/todo/src/js/constants/index.js",
+		"/home/sl/p/todo/src/js/components/AddTodo.js",
+		"/home/sl/p/todo/src/js/App.js",
+		"/home/sl/p/todo/src/style/index.scss",
+		"/home/sl/p/todo/webpack.config.js",
+		"/home/sl/p/to-do-list/src/js/App.jsx",
+		"/home/sl/p/todo/webpack.config.server.js",
+		"/home/sl/p/todo/src/style/reset.scss",
+		"/home/sl/p/todo/Procfile",
+		"/home/sl/p/todo/dist/js/bundle.js",
+		"/home/sl/p/todo/index.html",
+		"/home/sl/p/todo/test.js",
+		"/home/sl/p/todo/nums.js",
+		"/home/sl/p/weather/package.json",
+		"/home/sl/p/weather/src/js/store.js",
+		"/home/sl/p/weather/src/style/components/menu/smallDevices.scss",
+		"/home/sl/p/weather/src/js/components/Menu.js",
+		"/home/sl/p/weather/src/style/components/menu/menu.scss",
+		"/home/sl/p/weather/src/js/components/SavedCities.js",
+		"/home/sl/p/weather/index.js",
+		"/home/sl/p/weather/src/style/initFonts.scss",
+		"/home/sl/p/weather/log.txt",
+		"/home/sl/p/example-ankoku-toshi-jutsu/server.js",
+		"/home/sl/p/example-ankoku-toshi-jutsu/src/js/init.js",
+		"/home/sl/p/example-ankoku-toshi-jutsu/src/scss/components/loading/loading.scss",
+		"/home/sl/p/example-ankoku-toshi-jutsu/src/appData/index.js",
+		"/home/sl/p/example-ankoku-toshi-jutsu/src/js/components/Video.js",
+		"/home/sl/p/example-ankoku-toshi-jutsu/src/scss/initFonts.css",
+		"/home/sl/p/example-ankoku-toshi-jutsu/src/js/Store.js",
+		"/home/sl/p/example-ankoku-toshi-jutsu/package.json",
+		"/home/sl/p/example-ankoku-toshi-jutsu/src/js/App.js",
+		"/home/sl/p/example-ankoku-toshi-jutsu/src/scss/components/containerAnimatedText.scss",
+		"/home/sl/p/example-ankoku-toshi-jutsu/src/js/components/Slider.js",
+		"/home/sl/p/example-ankoku-toshi-jutsu/src/js/lib/Swiper.js",
+		"/home/sl/p/example-ankoku-toshi-jutsu/src/js/utils/animatedLetters.js",
+		"/home/sl/p/example-ankoku-toshi-jutsu/src/scss/reset.css",
+		"/home/sl/p/example-ankoku-toshi-jutsu/dist/js/bundle.js",
+		"/home/sl/p/example-ankoku-toshi-jutsu/src/scss/components/pages/creditsPage/creditsPage.scss",
+		"/home/sl/p/example-ankoku-toshi-jutsu/src/scss/components/menu/menu.scss",
+		"/home/sl/p/example-ankoku-toshi-jutsu/webpack.config.js",
+		"/home/sl/p/example-ankoku-toshi-jutsu/src/scss/index.scss",
+		"/home/sl/p/example-ankoku-toshi-jutsu/src/scss/components/pages/productPage/productPage.scss",
+		"/home/sl/p/example-ankoku-toshi-jutsu/src/scss/mixins.scss",
+		"/home/sl/p/secondsLeft/index.js",
+		"/home/sl/p/secondsLeft/src/js/sw.js",
+		"/home/sl/p/todo/dist/index.html",
+		"/home/sl/p/todo/dist/js/index.html",
+		"/home/sl/p/secondsLeft/webpack.config.js",
+		"/home/sl/p/secondsLeft/src/style/index.css",
+		"/home/sl/p/secondsLeft/src/js/SecondsLeft.js",
+		"/home/sl/p/secondsLeft/package.json",
+		"/home/sl/p/secondsLeft/manifest.json",
+		"/home/sl/p/secondsLeft/dist/js/sw.js",
+		"/home/sl/p/calendar/package.json",
+		"/home/sl/p/calendar/webpack.config.js",
+		"/home/sl/p/calendar/.tern-project"
+	],
+	"find":
+	{
+		"height": 31.4814814815
+	},
+	"find_in_files":
+	{
+		"height": 391.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.4814814815
+	},
+	"input":
+	{
+		"height": 225.925925926
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 225.925925926
+	},
+	"pinned_build_system": "",
+	"project": "favicon.sublime-project",
+	"replace":
+	{
+		"height": 59.2592592593
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"cv.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 424.592592593,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"\n  inputRange: Array<number>"
+			]
+		],
+		"width": 1414.59259259
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
