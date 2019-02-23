@@ -4,15 +4,15 @@ function createCv( cv ) {
   <h4 class="header-large">${cv.user.position}</h4>
   <ul>
   <li>
-  <h4 class="header-medium">Experience</h4>
+  <h4 class="header-medium">Experience:</h4>
   ${templateExperiens(cv['experience​'])}
   </li>
   <li>
-  <h4 class="header-medium">Pet projects</h4>
+  <h4 class="header-medium">Pet projects:</h4>
   ${templatePetProject(cv['petProjects'])}
   </li>
   <li>
-  <h4 class="header-medium">contacts</h4>
+  <h4 class="header-medium">contacts:</h4>
   <ul>
   ${templateContacts(cv['contacts'])}
   </ul>

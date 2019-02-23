@@ -46,7 +46,7 @@
     "description": [
       "Принимал участие в разработке интерфейса для онлайн дизайна интерьера.",
       "Элементы интерфейса реализованы на чистом Javascript, HTML и CSS без фреймворков.",
-      "Для уменьшения связанности компонентов использовал шаблон Publisher / Subscriber."
+      "Для уменьшения связанности компонентов использовал шаблон Publisher/Subscriber."
     ]
   }
 ],
@@ -56,7 +56,7 @@
     "shortDescription": "Progressive Web App",
     "description": [
       "Использовал service worker для кэширования данных приложения.",
-      "Реализовал взаимодействие со сторонними API, защищенными OAuth."
+      "Реализовал взаимодействие со сторонним API, защищенным OAuth."
     ],
     "link": {
       "github": "https://github.com/litichevskiy/weather"
@@ -66,7 +66,7 @@
     "name": "ankoku-toshi-jutsu",
     "shortDescription": "",
     "description": [
-      "Визуальная копия рекламного сайта, написанная для изучения React и Flux."
+      "Визуальная копия рекламного сайта, написанная c целью изучения React и Flux."
     ],
     "link": {
       "github": "https://github.com/litichevskiy/example-ankoku-toshi-jutsu"
